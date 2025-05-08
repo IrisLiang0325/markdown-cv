@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Iris Liang's CV
 ---
-# Isaac Newton
+# Iris Liang
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
